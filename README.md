@@ -1,2 +1,6 @@
 # Approximate-Solution-of-Nonlinear-Equations
-bisection method and secant method
+
+- Bisection Method
+- Secant Method
+
+This material is designed for educational use in numerical algorithms and linear algebra laboratory courses.
